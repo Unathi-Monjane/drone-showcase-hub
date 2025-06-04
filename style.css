@@ -1,0 +1,51 @@
+style.css:
+
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+p {
+  color: #333;
+  font-size: 16px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+}
+
+/* Menu Styles */
+#menu-bar {
+  background-color: #2c3e50;
+  padding: 10px;
+  text-align: center;
+}
+
+#menu-bar a {
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+  color: #fff;
+  background-color: #3498db;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+#menu-bar a:hover {
+  background-color: #2980b9;
+}
+
+
+Drone Showcase Hub 1.html:
