@@ -2,10 +2,6 @@
 
 Welcome to the **Drone Showcase Hub** — a simple and elegant website where drone enthusiasts can showcase stunning aerial photos and videos.
 
-## 🌐 Live Preview
-
-> *(Add your hosted website link here once available)*
-
 ## 📁 Project Structure
 
 📦 drone-showcase-hub/
